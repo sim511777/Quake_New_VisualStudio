@@ -8,3 +8,4 @@ Quake source build in various Visual C++ versions
 - VC2013 Express build
 - VC2015 Express build
 - VC2017 Express build
+- VC2019 Community build
